@@ -7,3 +7,16 @@ sqrt( ( x2-x1)^2 + (y2-y1)^2 ) )
 print(f"The straight-line distance between the points is: {distance}")
 
 
+******************************
+
+
+print("""*******
+ *****
+  ***
+   *""")
+
+
+******************************
+
+
+
